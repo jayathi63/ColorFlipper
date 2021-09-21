@@ -1,0 +1,47 @@
+body{
+    background-color:green;
+    text-align:center;
+}
+h1{
+   margin:200px 350px 20px 350px ;
+    text-align:center;
+    color:white;
+    background-color: black;
+    font-size:50px;
+    padding:auto;
+    border-radius:15px;
+}
+#color
+{
+    color:blue;
+}
+button
+{
+    background-color: white;
+    border:2px solid black;
+    font-size: 23px;
+    border-radius: 20px;
+    font-weight:bold;
+}
+button:hover
+{
+    background-color: grey;
+    font-size:25px;
+    color:white;
+}
+p
+{
+    text-align:center;
+    color:black;
+    background-color:white;
+    font-size:30px;
+    margin:20px 350px 20px 350px;
+    border-radius:15px; 
+    padding:5px 0px 5px 0px;
+    font-weight: bold;
+}
+input
+{
+    font-size:20px;
+}
+
